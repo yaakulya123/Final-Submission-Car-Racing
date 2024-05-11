@@ -65,7 +65,8 @@ This documentation details the Car Racing Game developed as part of our major cl
 
 ## Conclusion
 
-This Car Racing Game combines strategic elements of racing with diverse environmental settings and dynamic gameplay. It is designed to offer a comprehensive racing experience that tests both driving skills and strategic planning.
+This Car Racing Game combines strategic elements of racing with diverse environmental settings and dynamic gameplay. It has strengthen my ability in building racing games, along with proper SFX! 
+
 
 
 
