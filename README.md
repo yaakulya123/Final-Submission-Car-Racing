@@ -27,7 +27,7 @@ This documentation details the Car Racing Game developed as part of our major cl
 
 ### Sound and Visual Effects
 - **Audio**: The game includes various sound effects like accelrating, turning reverse and background music to enhance the racing experience.
-- **Visual FX**: Dynamic visual effects are used to enrich the gameplay, especially during different times of the day.
+- **Visual FX**: Dynamic visual effects are used to enrich the gameplay, especially during different times of the day. (Morning and Night) 
 
 ### Additional Features
 - **Mini Map**: A mini-map on the left of the screen shows upcoming turns, aiding in navigation.
@@ -56,11 +56,11 @@ This documentation details the Car Racing Game developed as part of our major cl
 
 ## Further Improvments: 
 
-1) Integrate a dynamic weather system that affects race conditions and vehicle handling. For instance, rain could make tracks slippery, reducing grip and requiring players to adapt their driving style. Foggy conditions could reduce visibility, adding an element of unpredictability and challenge. Weather changes could be random or specific to certain tracks, enhancing the realism and variability of each race.
+1) I'm thinking of integrating a dynamic weather system that affects race conditions and vehicle handling. For instance, rain could make tracks slippery, reducing grip and requiring players to adapt their driving style. Foggy conditions could reduce visibility, adding an element of unpredictability and challenge. Weather changes could be random or specific to certain tracks, enhancing the realism and variability of each race.
 
-2) Implement a detailed vehicle damage model where collisions and accidents have a realistic impact on the car's performance. For example, damage to the front of the car could affect steering, while engine damage might reduce top speed. Include pit stops in longer races where players can choose to repair damage, refuel, or change tires, adding strategic decisions to the racing experience.
+2) I would also liek to implement a detailed vehicle damage model where collisions and accidents have a realistic impact on the car's performance. For example, damage to the front of the car could affect steering, while engine damage might reduce top speed. Include pit stops in longer races where players can choose to repair damage, refuel, or change tires, adding strategic decisions to the racing experience.
 
-3) Add tracks with interactive elements, such as movable barriers, shortcuts that open and close dynamically, or sections of the track that change layout mid-race. This would keep players on their toes and require them to constantly adapt to new racing conditions. Additionally, creating tracks that have multiple paths or hidden shortcuts can encourage exploration and replayability.
+3) Another aspect I think it would be better if I can add tracks with interactive elements, such as movable barriers, shortcuts that open and close dynamically, or sections of the track that change layout mid-race. This would keep players on their toes and require them to constantly adapt to new racing conditions. Additionally, creating tracks that have multiple paths or hidden shortcuts can encourage exploration and replayability.
 
 
 ## Conclusion
