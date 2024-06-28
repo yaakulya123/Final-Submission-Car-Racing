@@ -3,7 +3,7 @@ Game Recording: https://drive.google.com/file/d/1L37QaGK-9qWGRC3ippxSB0jzMatnk4h
 # Final Racing Game Documentation
 
 ## Overview
-This documentation details the Car Racing Game developed as part of our major class project. Set against varied environments, including mountainous terrains: this game offers multiple circuits and car configurations, providing an immersive racing experience.
+This documentation details the Car Racing Game developed as part of our major team project. Set against varied environments, including mountainous terrains: this game offers multiple circuits and car configurations, providing an immersive racing experience.
 
 ## Game Features
 
